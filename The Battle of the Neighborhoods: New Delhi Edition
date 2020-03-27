@@ -1,0 +1,10 @@
+Explore the neighborhoods of New Delhi and suggest popular places to eat.
+
+Introduction/Business Understanding:
+
+Ahead of the season of the Indian Premier League (IPL), the cricket tournament that takes place in India, people from all over the
+world come to witness their favorite teams and players. Although there are multiple venues but New Delhi being the capitsl city of India
+sees a surge in quite a large number of tourists from outside and from different parts of the country. To provide a solution to the search
+for the best eateries in the city, I leverage the FourSquare API, Machine Learning and visualization tools to achieve this goal.
+
+In this project, I am going to Geocode location data obtained from WikiPedia and clustering methods to group the neighborhoods and sugest best eateries/restaurants for every taste in the city.
